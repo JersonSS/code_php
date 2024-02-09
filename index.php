@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>VIVA PERÚ</p>
+    <p>NUEVA PAGINA WEB</p>
 </body>
 </html>
